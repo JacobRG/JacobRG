@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my Bachelor's of Computer Science
-- 🌱 I’m currently learning Mobile App Dev for IOS
-- 💬 Ask me about my dog
+- 🔭 University of Kentucky Computer Science Graduate
+- 🌱 I’m currently looking for my first opportunity in the field
 - 📫 How to reach me: jacobgambrell@gmail.com
